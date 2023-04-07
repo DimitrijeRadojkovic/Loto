@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "Loto",
+    "name": "loto",
     "builds": [
        { "src": "app.js", "use": "@vercel/node" }
     ],
